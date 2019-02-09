@@ -1,0 +1,1 @@
+zimwriterfs -w welcome.html -t "HandyBook Interactive Reference" -l en -d "Interactive reference guide with calculators and more" -f spade1.png -c "Daniel Dunn" -p "Daniel Dunn" -u  ./html ./HandyBook.zim
